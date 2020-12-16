@@ -82,7 +82,7 @@ Ejercicio 2
 	<img src="/home/lean/Desktop/VirtualDreams/Get2.png">
 
 	En este ultimo GET se observa que se agregaron los datos ingresados en el POST
-	(En caso de que no carguen las imagenes, nunca uso git con graficos, dejo adjunto los screens en el repo)
+	(En caso de que no carguen las imagenes, dejo adjunto los screens en el repo)
 
 	Ejercicio 4
 
