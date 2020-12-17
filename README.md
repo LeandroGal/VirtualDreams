@@ -73,13 +73,13 @@ Ejercicio 2
 	Ejercicio 3
 	
 	Primer GET
-	<img src="/home/lean/Desktop/VirtualDreams/Get1.png">
+	![](Get1.png)
 
 	POST
-	<img src="/home/lean/Desktop/VirtualDreams/POST.png">
+	![](POST.png)
 
 	Segundo GET
-	<img src="/home/lean/Desktop/VirtualDreams/Get2.png">
+	![](Get2.png)
 
 	En este ultimo GET se observa que se agregaron los datos ingresados en el POST
 	(En caso de que no carguen las imagenes, dejo adjunto los screens en el repo)
